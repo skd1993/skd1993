@@ -10,7 +10,8 @@ My skill | Data
 
 ![Shobhit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=skd1993&hide_border=true&theme=redical)
 
-[![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=skd1993)](https://github.com/skd1993/github-readme-stats)
+![Shobhit's github stats](https://github-readme-stats.vercel.app/api?username=skd1993&show_icons=true&theme=radical&include_all_commits=true)
+![Shobhit's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skd1993&theme=radical&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=skd1993"></img>
 
 ![Profile views](https://gpvc.arturio.dev/skd1993)
